@@ -1,4 +1,6 @@
+---
 layout : slides
 title : "Welcome to our second slide!"
-Your test
+---
+Bruh
 Use the left arrow to go back!
